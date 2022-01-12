@@ -19,7 +19,7 @@
     "headroom.js": "^0.9.4",
     "js-md5": "^0.7.3",
     "lodash": "^4.17.11",
-    "markdown-it": "^8.4.2",
+    "markdown-it": "^12.3.2",
     "markdown-it-plus-image": "^1.0.1",
     "mint-ui": "^2.2.13",
     "moment": "^2.24.0",
